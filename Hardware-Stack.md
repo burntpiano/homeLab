@@ -20,6 +20,9 @@ Hostname: NetWRT - Firmware: OpenWRT
 TP-Link Deco X60 - 2 Ethernet Ports - Static IPv4: 192.168.10.9 - Firmware:
 Stock
 
+Raspberry Pi 3 Model B+ 2GB - HMDI Out Split ⤙ Physical Monitor/USB <> HDMI - Pi
+Pico HID Injector for Mouse and Keyboard Emulation - OS: PiKVM
+
 ---
 
 ### Server Hardware:
@@ -28,5 +31,5 @@ Stock
 
 Beelink S12 Mini PC - CPU: Intel N100 - Memory: 16GiB
 
-GPU Node - CPU: AMD Ryzen 7 1700 - GPU: Zotac RTX 2060 - VRAM: 6GB - Memory:
-64GiB
+GPU Node - Rosewill RSV-R4100U - CPU: AMD Ryzen 7 1700 - GPU: Zotac RTX 2060 -
+VRAM: 6GB - Memory: 64GiB
