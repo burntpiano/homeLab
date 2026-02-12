@@ -25,7 +25,7 @@
 
 <div align="center">
   <img width="594.96" height="793.5" alt="serverCabinet" src="https://github.com/user-attachments/assets/2de5c1a4-4399-41a4-a7c7-454c0f00e27c" />
-   <p align="center">I will freely admin, I was not ready for the scale of this cabinet."</p>
+   <p align="center">I will admit, I was not ready for the size of this cabinet.</p>
 </div>
 
 ---
@@ -54,7 +54,7 @@
   <p align="center">I was having bottleneck issues wrt I/O. 5 drives occupying the same USB lane works fine for small data transfers, but for atomic moves between drives, it's less than desirable. This was my temporary SATA solution.</p>
 
   <img alt="fanSwap" src="https://github.com/user-attachments/assets/4ccee881-3b52-4d68-881a-33878c6a1550" />
-  <p align="center">Due to space constraints, the SATA cables were pressed up against the GPU fan. Fortunately I had a dead card that I was able to salvage. Note the Zotac branding in contrast to the Gigabye fans.</p>
+  <p align="center">Due to space constraints, the SATA cables were pressed up against the GPU fan and the motor failed. Fortunately I had a dead card that I was able to salvage. Note the Zotac branding in contrast to the Gigabye fans.</p>
 </div>
 
 ---
