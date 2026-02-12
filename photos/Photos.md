@@ -44,6 +44,32 @@
 
   
   <img width="594.96" height="446.42" alt="PiWRTandSwitch" src="https://github.com/user-attachments/assets/c4b8faff-7f7d-4c50-a380-fc8a6df5afa8" />
-  <p align="center">This is my home lab in it's current iteration: subject to change.</p>
+  <p align="center">This is my home lab in it's <s>current</s> Summer 2025 iteration: subject to change.</p>
 </div>
 
+---
+
+<div align="center">
+  <img width="594.96" height="793.52" alt="messyLab" src="https://github.com/user-attachments/assets/6fad84fc-e1fd-4560-89c7-39085fef25f4" />
+  <p align="center">I was having bottleneck issues wrt I/O. 5 drives occupying the same USB lane works fine for small data transfers, but for atomic moves between drives, it's less than desirable. This was my temporary SATA solution.</p>
+
+  <img alt="fanSwap" src="https://github.com/user-attachments/assets/4ccee881-3b52-4d68-881a-33878c6a1550" />
+  <p align="center">Due to space constraints, the SATA cables were pressed up against the GPU fan. Fortunately I had a dead card that I was able to salvage. Note the Zotac branding in contrast to the Gigabye fans.</p>
+</div>
+
+---
+
+<div align="center">
+  <img width="459" height="612" alt="serverChassis" src="https://github.com/user-attachments/assets/89b50a22-71ee-444e-a77e-0523e16a1284" />
+  <p align="center">I was able to transfer the node into an affordable server chassis. From my estimates, this has improved the legitamcy of the server by 30%.</p>
+
+  <img width="456.5" height="344.5" alt="image" src="https://github.com/user-attachments/assets/0dbee0d8-270f-4aa8-95e9-39001262ccbb" />
+
+  <img width="511" height="681.5" alt="image" src="https://github.com/user-attachments/assets/4657c3d7-a15b-4951-845a-fadd52fb1634" />
+  <p align="center">It cleaned up well.</p>
+
+<img width="459" height="612" alt="image" src="https://github.com/user-attachments/assets/ed817b2e-ea5d-4f19-8575-46fc67f5d541" />
+  <p align="center">Downstream network cable management.</p>
+
+
+</div>
