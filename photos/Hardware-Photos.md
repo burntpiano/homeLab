@@ -33,17 +33,13 @@
 <div align="center">
   <img width="594.96" height="793.52" alt="homeLabRev3Open" src="https://github.com/user-attachments/assets/44bb13b0-4008-4e56-bb4a-e2126c810050" />
 
-  
-  <img width="594.96" height="793.52" alt="homeLabRev3Closed" src="https://github.com/user-attachments/assets/93fca98c-bb3e-454e-aa70-8bc26de3565c" />
+<img width="594.96" height="793.52" alt="homeLabRev3Closed" src="https://github.com/user-attachments/assets/93fca98c-bb3e-454e-aa70-8bc26de3565c" />
 
-  
-  <img width="594.96" height="446.42" alt="homeLabRev3KVMmonitor" src="https://github.com/user-attachments/assets/725db6f3-e1f3-4f3c-ab9f-48396898ea4d" />
+<img width="594.96" height="446.42" alt="homeLabRev3KVMmonitor" src="https://github.com/user-attachments/assets/725db6f3-e1f3-4f3c-ab9f-48396898ea4d" />
 
-  
-  <img width="594.96" height="446.42" alt="ArcherWRT" src="https://github.com/user-attachments/assets/b8d8ec7f-36c3-4c9c-8f09-dddd2775cbcd" />
+<img width="594.96" height="446.42" alt="ArcherWRT" src="https://github.com/user-attachments/assets/b8d8ec7f-36c3-4c9c-8f09-dddd2775cbcd" />
 
-  
-  <img width="594.96" height="446.42" alt="PiWRTandSwitch" src="https://github.com/user-attachments/assets/c4b8faff-7f7d-4c50-a380-fc8a6df5afa8" />
+<img width="594.96" height="446.42" alt="PiWRTandSwitch" src="https://github.com/user-attachments/assets/c4b8faff-7f7d-4c50-a380-fc8a6df5afa8" />
   <p align="center">This is my home lab in it's <s>current</s> Summer 2025 iteration: subject to change.</p>
 </div>
 
@@ -53,7 +49,7 @@
   <img width="594.96" height="793.52" alt="messyLab" src="https://github.com/user-attachments/assets/6fad84fc-e1fd-4560-89c7-39085fef25f4" />
   <p align="center">I was having bottleneck issues wrt I/O. 5 drives occupying the same USB lane works fine for small data transfers, but for atomic moves between drives, it's less than desirable. This was my temporary SATA solution.</p>
 
-  <img alt="fanSwap" src="https://github.com/user-attachments/assets/4ccee881-3b52-4d68-881a-33878c6a1550" />
+<img alt="fanSwap" src="https://github.com/user-attachments/assets/4ccee881-3b52-4d68-881a-33878c6a1550" />
   <p align="center">Due to space constraints, the SATA cables were pressed up against the GPU fan and the motor failed. Fortunately I had a dead card that I was able to salvage. Note the Zotac branding in contrast to the Gigabye fans.</p>
 </div>
 
@@ -63,13 +59,12 @@
   <img width="459" height="612" alt="serverChassis" src="https://github.com/user-attachments/assets/89b50a22-71ee-444e-a77e-0523e16a1284" />
   <p align="center">I was able to transfer the node into an affordable server chassis. From my estimates, this has improved the legitamcy of the server by 30%.</p>
 
-  <img width="456.5" height="344.5" alt="image" src="https://github.com/user-attachments/assets/0dbee0d8-270f-4aa8-95e9-39001262ccbb" />
+<img align="center" width="456.5" height="344.5" alt="image" src="https://github.com/user-attachments/assets/0dbee0d8-270f-4aa8-95e9-39001262ccbb" />
 
-  <img width="511" height="681.5" alt="image" src="https://github.com/user-attachments/assets/4657c3d7-a15b-4951-845a-fadd52fb1634" />
+<img width="511" height="681.5" alt="image" src="https://github.com/user-attachments/assets/4657c3d7-a15b-4951-845a-fadd52fb1634" />
   <p align="center">It cleaned up well.</p>
 
 <img width="459" height="612" alt="image" src="https://github.com/user-attachments/assets/ed817b2e-ea5d-4f19-8575-46fc67f5d541" />
   <p align="center">Downstream network cable management.</p>
-
 
 </div>
