@@ -56,15 +56,15 @@
 ---
 
 <div align="center">
-  <img width="459" height="612" alt="serverChassis" src="https://github.com/user-attachments/assets/89b50a22-71ee-444e-a77e-0523e16a1284" />
+  <img align="center" width="459" height="612" alt="serverChassis" src="https://github.com/user-attachments/assets/89b50a22-71ee-444e-a77e-0523e16a1284" />
   <p align="center">I was able to transfer the node into an affordable server chassis. From my estimates, this has improved the legitamcy of the server by 30%.</p>
 
 <img align="center" width="456.5" height="344.5" alt="image" src="https://github.com/user-attachments/assets/0dbee0d8-270f-4aa8-95e9-39001262ccbb" />
 
-<img width="511" height="681.5" alt="image" src="https://github.com/user-attachments/assets/4657c3d7-a15b-4951-845a-fadd52fb1634" />
+<img align="center" width="511" height="681.5" alt="image" src="https://github.com/user-attachments/assets/4657c3d7-a15b-4951-845a-fadd52fb1634" />
   <p align="center">It cleaned up well.</p>
 
-<img width="459" height="612" alt="image" src="https://github.com/user-attachments/assets/ed817b2e-ea5d-4f19-8575-46fc67f5d541" />
+<img align="center" width="459" height="612" alt="image" src="https://github.com/user-attachments/assets/ed817b2e-ea5d-4f19-8575-46fc67f5d541" />
   <p align="center">Downstream network cable management.</p>
 
 </div>
